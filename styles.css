@@ -156,3 +156,11 @@ a { text-decoration: none; }
   .cta-section { text-align:center; }
   .script-note { margin-top:15px; }
 }
+
+.main-image {
+    background-image: url("assets/images/wall_paper_3.png");
+    width: auto;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
